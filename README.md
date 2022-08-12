@@ -22,7 +22,7 @@ Analyst. Creative. Adventurous. Outgoing. Flexible.
 Honors College, President of Womens’ Club Volleyball, Pi Beta Phi Alum, Womens’ Network UCLA.  
 
 ## Technical Skills
-- Significant expertise in a variety of coding languages including **Python**, R, Matlab, **Java**, C++, **Go**, and **C (Git)**.
+- Significant expertise in a variety of coding languages including **Python**, R, Matlab, **Java**, C++, **Go**, **SQL**, and **C (Git)**.
 - Strong Skills with Microsoft Office (e.g. **Excel** and **Powerpoint**), [Docker](https://www.docker.com/), [Looker](https://www.looker.com/), Google Analytics, [Hugging Face](https://huggingface.co/),
 [Kubernetes](https://kubernetes.io/), [AWS](https://aws.amazon.com/), Facebook Business, Google Programs, etc.
 - Experience fine-tuning and working with **Transformer Models**.
